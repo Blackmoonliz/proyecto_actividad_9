@@ -1,0 +1,136 @@
+/*solución punto 4*/
+
+.parrafo_azul {
+    color: #0000ff;
+    text-align: center;
+    font-size: 50px;
+}
+
+.parrafo_rojo {
+    color: #ff0000;
+    text-align: center;
+    font-size: 50px;
+}
+
+.parrafo_cian {
+    color: #008b8b;
+    text-align: center;
+    font-size: 25px;
+}
+
+.fondo {
+    background-color: #e6e6fa;
+}
+
+/*solución punto 5*/
+
+.div_contenido {
+    padding-left: 350px;
+   
+}
+.p5_verde {
+    color: #006400;
+    text-decoration: underline;
+}
+.p5_rojo {
+    color: #ff0000;
+    font-weight: bold;
+}
+.p5_doblelinea {
+    text-decoration: overline underline;
+}
+.p5_grande {
+    font-weight: bold ;
+    font-size: 45px;
+}
+.p5_azul  {
+    color: #0000ff;
+    font-weight: bold ;
+}
+.p5_rojo_sub {
+    color: #ff0000;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.div_alineacion_centro {
+    text-align: center;
+    color: #ff69b4;
+    font-size: 20px;
+}
+
+/*solución punto 6*/
+
+.p6_url_amarillo {
+    color: #ffff00;
+    font-size: 30px;
+    font-weight: bold
+}
+.p6_url_violeta {
+    color: #8a2be2;
+    font-size: 30px;
+    font-weight: bold
+}
+.p6_aguamarina  {
+    color: #00ced1;
+    font-size: 20px;
+}
+.fondo_p6 {
+    background-color: #f0ffff;
+}
+
+/*solución punto 7 y 8*/
+
+.p7_encabezado  {
+    background-color: #d1aefa;
+    text-align: center;
+    padding: 25px;
+}
+.p7_a:link, .p7_a:visited  {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.p7_a:hover, .p7_a:active  {
+    background-color: #0000ff;
+}
+.p7_aguamarina {
+    color: #00ced1;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*solución punto 9*/
+
+.p9_tabla {
+    background-color: #ffff00;
+    border-top: 2px #000000 dotted;
+    border-left: 2px #000000 dotted;
+    border-right: 2px #000000 dotted;
+    border-bottom: 2px #ff0000 dashed;
+    margin: auto;
+}
+
+.p9_th {
+    color: #ff0000;
+    font-style: italic;
+    font-size: 15px;
+}
+.p9_th span {
+    font-size: 30px;
+    font-weight: bold;
+}
+.p9_td_iz {
+    border-top: 2px #000000 dotted;
+}
+.p9_td_de {
+    border-top: 2px #000000 dotted;
+    border-left: 2px #000000 dotted;
+}
+.p8_verde {
+    color: #00d192;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
